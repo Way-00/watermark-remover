@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing Fivem WayRP (invite:cfx.re/join/8ydyg5)"];
+const statusMessages = ["Powered By Way 🚀"];
 
 
 let currentIndex = 0;
