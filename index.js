@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Powered By Way 🚀"];
+const statusMessages = ["Hi, I'm Jinxy 🐵"];
 
 
 let currentIndex = 0;
