@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Hi, I'm Jinxy 🐵"];
+const statusMessages = ["Hi, I'm Jinxy 🐵 (PREFIX: /)"];
 
 
 let currentIndex = 0;
